@@ -60,6 +60,9 @@ Attendance is required from 9:30 to 5:30 every day including the following sessi
 
 
 ### Projects
+
+- [Fall Intensive Project](Assignments/Project-Requirements.md)
+
 **All projects require a minimum of 10 commits, and must take place throughout the entirety of the course**
 
 - **Good Example:** 40+ commits throughout the length of the course, looking for a healthy spattering of commits each week (such as 3-5 per day).
@@ -110,5 +113,5 @@ Failure to meet these requirements will result in a PIP (Participation Improveme
 
 
 [Lesson 1]: Lessons/01-User-Stories-And-Sprint-Planning.md
-[Lesson 2]: Lessons/Wireframe-Feedback.md
-[Lesson 3]: Lessons/Product-Pitches.md
+[Lesson 2]: Lessons/02-Wireframe-Feedback.md
+[Lesson 3]: Lessons/03-Product-Pitches.md
