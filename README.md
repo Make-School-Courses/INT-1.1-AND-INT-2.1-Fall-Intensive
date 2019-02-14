@@ -26,8 +26,8 @@ Class Sessions:  4 classes, 5 labs
 Students by the end of the course will be able to ...
 
 1. Build from scratch an app or product in your language concentration
-1. Communicate the value of your product via a product pitch
-1. Give and get constructive feedback on your app idea, designs, and code
+1. Explain the value of your product via a product pitch
+1. Provide and receive constructive feedback on your app idea, designs, and code
 
 
 
