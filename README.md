@@ -41,7 +41,7 @@ Intensive ends Friday afternoon with each student giving a 3 minute pitch of the
 
 
 
-### Projects
+## Projects
 
 - JUNIORS: [Fall Intensive Project + Pitch](Assignments/Project-Requirements.md)
 - SENIORS: More details coming soon. Work on Industry Collaboration project, or other projects like past intensives (team or solo, new or old). Give pitch too.
