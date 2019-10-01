@@ -2,7 +2,7 @@
 
 ## Course Description
 
-Intensive courses are hands on, immersive experiences designed to give students time to apply their skills to building original products (website or apps) and practice software engineering skills. The course is a week of coding all day with daily check ins and feedback from instructors on progress, short instructional session on key concepts, and ongoing support from instructors and classmates. In Fall Intensive 1 the focus is on design and user testing as well best practices and steps to build and pitch an original product in a week. The Intensive culminates with each student pitching their product to their classmates on the last day.
+Intensive courses are hands on, immersive experiences designed to give students time to apply their skills to building original products (website or apps) and practice software engineering skills. The course is a week of coding all day with daily check ins and feedback from instructors on progress, short instructional session on key concepts, and ongoing support from instructors and classmates. We do not have a typical course schedule. In Fall Intensive 1 the focus is on design and user testing as well best practices and steps to build and pitch an original product in a week. The Intensive culminates with each student pitching their product to their classmates on the last day.
 
 **INT 1.1 Fall Intensive 1** is for Juniors while **INT 2.1 Fall Intensive 2** is for Seniors.  Students will work on similar skills with different evaluation criteria and expectations.
 
@@ -31,37 +31,20 @@ Students by the end of the course will be able to ...
 
 
 
-
 ## Schedule
 
-**Course Dates:** Monday, October 15 – Friday, October 19, 208 (5 days)
+**Course Dates:** Tuesday, October 15 – Friday, October 18 (4 days)
 
-**Class Times:**
-Attendance is required from 9:30 to 5:30 every day including the following sessions:
-- Daily Huddles:
- -  9:30 - 10:00am, 12:00 - 12:30pm, and 4:30 - 5:00pm
-- Class:
-  - Monday Class 10:00 - 11:00am
-  - Tuesday Class 10:00 - 11:00am
-  - Wednesday Class 3:30 - 4-30pm
-  - Friday Product Pitch 3:00 - 5:00
-- Daily Structured Lab Time:
-  - 11:00 - 12:00 and 1:00 - 3:00
+Exact schedule coming soon. Sessions include Scoping, Planning work, and more. Instructors and TAs will be available.
 
-
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1  | Monday    | [Lesson 1] |
-|  2 | Tuesday    | [Lesson 2] |
-|  3 | Wednesday   | [Lesson 3] |
-|  5 | Friday     | Pitch Product |
+Intensive ends Friday afternoon with each student giving a 3 minute pitch of their product to peers.
 
 
 
 ### Projects
 
-- [Fall Intensive Project](Assignments/Project-Requirements.md)
+- JUNIORS: [Fall Intensive Project + Pitch](Assignments/Project-Requirements.md)
+- SENIORS: More details coming soon. Work on Industry Collaboration project, or other projects like past intensives (team or solo, new or old). Give pitch too.
 
 **All projects require a minimum of 10 commits, and must take place throughout the entirety of the course**
 
@@ -80,23 +63,19 @@ We want to encourage best practices that you will see working as a professional 
 Through this requirement, we hope to encourage you to think about projects with an iterative, modular mindset. Doing so will allow you to break projects down into smaller milestones that come together to make your fully-realized solution.
 
 
-## Evaluation
+## Evaluation (Product and Pitch)
 To pass this course you must meet the following requirements:
 
+Juniors
 - Attend all class sessions
-- Meet the project requirements using the [SPD Intensive Product Rubric](https://docs.google.com/document/d/1pdtRdgVISE07fFc8oBi5hCnLkwBQDFG5_3f79aDV1WU/preview)
- - Juniors must score at least a 3, Seniors must score at least a 4.
-- Present your project using the [Pitch Rubric](https://docs.google.com/document/d/1pdtRdgVISE07fFc8oBi5hCnLkwBQDFG5_3f79aDV1WU/preview)
- - Juniors must score at least a 3, Seniors must score at least a 4.
+- Meet the project requirements using the [SPD Intensive Product Rubric](https://docs.google.com/document/d/1pdtRdgVISE07fFc8oBi5hCnLkwBQDFG5_3f79aDV1WU/preview). Juniors must score at least a 3 to pass.
+- Present your project using the [Pitch Rubric](https://docs.google.com/document/d/1pdtRdgVISE07fFc8oBi5hCnLkwBQDFG5_3f79aDV1WU/preview) during the Friday pitch session.
+
+Seniors
+- Exact details coming soon: work on Industry Collaboration project, or other projects like past intensives (team or solo, new or old). You will also pitch your project.
 
 ## Attendance
 Just like any job, attendance at Make School is required and a key component of your success. Attendance is being onsite from 9:30 to 5:30 each day, attending all scheduled sessions including classes, huddles, coaching and school meetings, and working in the study labs when not in a scheduled session. Working onsite allows you to learn with your peers, have access to support from TAs, instructors and others, and is vital to your learning.
-
-Attendance requirements for scheduled sessions are:
-- No more than two no call no shows per term in any scheduled session.
-- No more than four excused absences per term in any scheduled session.
-
-Failure to meet these requirements will result in a PIP (Participation Improvement Plan).  Failure to improve after the PIP is cause for not being allowed to continue at Make School.
 
 
 ## Make School Course Policies
@@ -109,9 +88,3 @@ Failure to meet these requirements will result in a PIP (Participation Improveme
 <br>
 [Title IX Policy](https://make.sc/title-ix-policy)<br>
 [Program Learning Outcomes](https://make.sc/program-learning-outcomes)
-
-
-
-[Lesson 1]: Lessons/01-User-Stories-And-Sprint-Planning.md
-[Lesson 2]: Lessons/02-Wireframe-Feedback.md
-[Lesson 3]: Lessons/03-Product-Pitches.md
