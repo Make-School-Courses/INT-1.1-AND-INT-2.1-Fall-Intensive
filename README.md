@@ -7,16 +7,6 @@ Intensive courses are hands on, immersive experiences designed to give students 
 **INT 1.1 Fall Intensive 1** is for Juniors while **INT 2.1 Fall Intensive 2** is for Seniors.  Students will work on similar skills with different evaluation criteria and expectations.
 
 
-## Course Specifics
-
-Weeks to Completion:  1 <br>
-Total Seat Hours:  35 hours <br>
-Total Out-of-Class Hours: 25 hours <br>
-Total Hours: 60 hours <br>
-Units:  1 unit <br>
-Delivery Method:  Residential <br>
-Class Sessions:  4 classes, 5 labs
-
 ## Prerequisites:  
 
 - none
@@ -35,7 +25,7 @@ Students by the end of the course will be able to ...
 
 **Course Dates:** Tuesday, October 15 – Friday, October 18 (4 days)
 
-Exact schedule coming soon. Sessions include Scoping, Planning work, and more. Instructors and TAs will be available.
+**Attend Orientation on Tuesday, Oct 15 for the full schedule**. Exact schedule coming soon. Sessions include Scoping, Planning work, and more. Instructors and TAs will be available.
 
 Intensive ends Friday afternoon with each student giving a 3 minute pitch of their product to peers.
 
@@ -81,17 +71,14 @@ Seniors
 - Achieve 2 of 3 objectives on your APPROVED project proposal
 - Pitch your project during the Friday pitch session
 
-## Attendance
-Just like any job, attendance at Make School is required and a key component of your success. Attendance is being onsite from 9:30 to 5:30 each day, attending all scheduled sessions including classes, huddles, coaching and school meetings, and working in the study labs when not in a scheduled session. Working onsite allows you to learn with your peers, have access to support from TAs, instructors and others, and is vital to your learning.
-
 
 ## Make School Course Policies
 
-[Academic Honesty](https://make.sc/academic-honesty)<br>
-[Accommodations for Students](https://make.sc/accommodations-for-students)<br>
-[Attendance Policy](https://make.sc/attendance-policy)  
-[Diversity and Inclusion Policy](https://make.sc/diversity-and-inclusion-policy)<br>
-[Grading System](https://make.sc/grading-system)
-<br>
-[Title IX Policy](https://make.sc/title-ix-policy)<br>
-[Program Learning Outcomes](https://make.sc/program-learning-outcomes)
+- [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
+- [Grading System](https://make.sc/grading-system) - How grading is done at Make School
+- [Diversity and Inclusion Statement](https://make.sc/diversity-and-inclusion-statement) - Learn about Diversity and Inclusion at Make School
+- [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct 
+- [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
+- [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
+- [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
+- [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
