@@ -43,8 +43,14 @@ Intensive ends Friday afternoon with each student giving a 3 minute pitch of the
 
 ## Projects
 
-- JUNIORS: [Fall Intensive Project + Pitch](Assignments/Project-Requirements.md)
-- SENIORS: More details coming soon. Work on Industry Collaboration project, or other projects like past intensives (team or solo, new or old). Give pitch too.
+- JUNIORS: 
+  - [Junior Fall Intensive Proposal](https://docs.google.com/document/d/1zyP3vCUj_I4uRlrMEaG4mwMdELK4XlH0KBh-MXcstxI/edit#) - fill out and get approved Tuesday of intensive (see session on calendar)
+  - [Junior Fall Intensive Project](https://docs.google.com/document/d/1pdtRdgVISE07fFc8oBi5hCnLkwBQDFG5_3f79aDV1WU/edit) - meet the requirements outlined in the linked Product Rubric
+  - [Junior Pitch](https://docs.google.com/presentation/d/1AnLBMhwhJ-r77iy1mDH-se76BFDhyOukJ4_0elZUZdU/edit#slide=id.g44801341de_0_27) - create a three slide pitch deck in the format outlined in the linked presentation
+- SENIORS: 
+  - [Senior Fall Intensive Proposal](https://docs.google.com/document/d/1pZh24HKYJlB7uuVZB1C8KNeBNC2VdzD8X87PVHwXpqU/edit#) Fill out and get approved the Tuesday of Intensive. You can work on your Industry Collaboration project, or other projects like past intensives (team or solo, new or old).
+  - Product - varries based on what was in the proposal
+  - [Pitch](https://docs.google.com/document/d/1WTLcZNyvRGYDz5L8Kr8a0ILbFAyr92u85paoqGFjxPg/edit) - Seniors working on individual project will pitch alone, students working on team project will collectively pitch their projects, specifically, what they acheived during the intensive week.
 
 **All projects require a minimum of 10 commits, and must take place throughout the entirety of the course**
 
@@ -72,7 +78,8 @@ Juniors
 - Present your project using the [Pitch Rubric](https://docs.google.com/document/d/1pdtRdgVISE07fFc8oBi5hCnLkwBQDFG5_3f79aDV1WU/preview) during the Friday pitch session.
 
 Seniors
-- Exact details coming soon: work on Industry Collaboration project, or other projects like past intensives (team or solo, new or old). You will also pitch your project.
+- Achieve 2 of 3 objectives on your APPROVED project proposal
+- Pitch your project during the Friday pitch session
 
 ## Attendance
 Just like any job, attendance at Make School is required and a key component of your success. Attendance is being onsite from 9:30 to 5:30 each day, attending all scheduled sessions including classes, huddles, coaching and school meetings, and working in the study labs when not in a scheduled session. Working onsite allows you to learn with your peers, have access to support from TAs, instructors and others, and is vital to your learning.
