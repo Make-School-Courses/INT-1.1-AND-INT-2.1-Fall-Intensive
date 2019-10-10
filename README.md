@@ -25,7 +25,7 @@ Students by the end of the course will be able to ...
 
 **Course Dates:** Tuesday, October 15 – Friday, October 18 (4 days)
 
-**Unless marked optional, all sessions are required.** Sessions include Scoping, Planning work, and more. Instructors and TAs will be available.
+**JUNIORS - Unless marked optional, all sessions are required.** Sessions include Scoping, Planning work, and more. Instructors and TAs will be available.
 
 Intensive ends Friday afternoon with each student giving a 3 minute pitch of their product to peers.
 
