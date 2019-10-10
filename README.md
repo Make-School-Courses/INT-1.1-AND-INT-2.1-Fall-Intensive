@@ -25,9 +25,24 @@ Students by the end of the course will be able to ...
 
 **Course Dates:** Tuesday, October 15 – Friday, October 18 (4 days)
 
-**Attend Orientation on Tuesday, Oct 15 for the full schedule**. Exact schedule coming soon. Sessions include Scoping, Planning work, and more. Instructors and TAs will be available.
+**Unless marked optional, all sessions are required.** Sessions include Scoping, Planning work, and more. Instructors and TAs will be available.
 
 Intensive ends Friday afternoon with each student giving a 3 minute pitch of their product to peers.
+
+|          Date        |                 Topics                    |
+:---------------------:|:-----------------------------------------:|
+| **Monday, 10/15**    |  **HOLIDAY - NO SESSIONS**                |
+| **Tuesday, 10/15**   |  Intensive Kickoff                        |
+|                      |  Scoping Projects 2.0                     |
+|                      |  Brainstorm Product idea [Optional]       |
+|                      |  Wireframe Testing [Optional]             |
+|                      |  Finalize Intensive Proposal              |
+| **Wednesday, 10/16** |  Checkin Standup                          |
+|                      |  Project Planning                         |
+| **Thursday, 10/17**  |  Checkin Standup                          |
+|                      |  Product Pitch Training                   |
+| **Friday, 10/18**    |  Checkin Standup                          |
+|                      |  Produt Pitch Presentations               |
 
 
 
