@@ -32,7 +32,7 @@ Intensive ends Friday afternoon with each student giving a 3 minute pitch of the
 |          Date        |                 Topics                    |
 :---------------------:|:-----------------------------------------:|
 | **Monday, 10/15**    |  **HOLIDAY - NO SESSIONS**                |
-| **Tuesday, 10/15**   |  Intensive Kickoff                        |
+| **Tuesday, 10/15**   |  [Intensive Kickoff](https://docs.google.com/presentation/d/1xknARlZ0AC524tc7nG2uo8eWIfdiurp30TRMy9RAycA/edit#slide=id.p)                        |
 |                      |  Scoping Projects 2.0                     |
 |                      |  Brainstorm Product idea [Optional]       |
 |                      |  Wireframe Testing [Optional]             |
