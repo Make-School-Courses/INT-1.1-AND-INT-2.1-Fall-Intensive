@@ -23,7 +23,7 @@ Students by the end of the course will be able to ...
 
 ## Schedule
 
-**Course Dates:** Tuesday, October 15 – Friday, October 18 (4 days)
+**Course Dates:** Tuesday, October 13 – Friday, October 19 ( days)
 
 **JUNIORS - Unless marked optional, all sessions are required.** Sessions include Scoping, Planning work, and more. Instructors and TAs will be available.
 
@@ -31,7 +31,7 @@ Intensive ends Friday afternoon with each student giving a 3 minute pitch of the
 
 |          Date        |                 Topics                    |
 :---------------------:|:-----------------------------------------:|
-| **Monday, 10/15**    |  **HOLIDAY - NO SESSIONS**                |
+| **Monday, 10/13**    |  **HOLIDAY - NO SESSIONS**                |
 | **Tuesday, 10/15**   |  [Intensive Kickoff](https://docs.google.com/presentation/d/1xknARlZ0AC524tc7nG2uo8eWIfdiurp30TRMy9RAycA/edit#slide=id.p)                        |
 |                      |  [Scoping Projects 2.0](http://make.sc/mvp-scope)         |
 |                      |  Brainstorm Product idea [Optional]       |
