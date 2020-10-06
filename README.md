@@ -57,11 +57,11 @@ Intensive ends Friday afternoon with each student giving a 3 minute pitch of the
   - Product - varries based on what was in the proposal
   - [Pitch](https://docs.google.com/document/d/1WTLcZNyvRGYDz5L8Kr8a0ILbFAyr92u85paoqGFjxPg/edit) - Seniors working on individual project will pitch alone, students working on team project will collectively pitch their projects, specifically, what they acheived during the intensive week.
 
-**All projects require a minimum of 10 commits, and must take place throughout the entirety of the course**
+**All projects require a minimum of 5 commits, and must take place throughout the entirety of the course**
 
-- **Good Example:** 40+ commits throughout the length of the course, looking for a healthy spattering of commits each week (such as 3-5 per day).
-- **Bad Example:** 10 commits on one day during the course and no others. Students who do this will be at severe risk of not passing the class.
-- **Unacceptable Example:** 2 commits the day before a project is due. Students who do this should not expect to pass the class.
+- **Good Example:** 10+ commits throughout the length of the course, looking for a healthy spattering of commits each week (such as 3-5 per day).
+- **Bad Example:** 2 commits on one day during the course and no others. Students who do this will be at severe risk of not passing the class.
+- **Unacceptable Example:** 1 commit the day before a project is due. Students who do this should not expect to pass the class.
 
 #### Why are we doing this?
 
