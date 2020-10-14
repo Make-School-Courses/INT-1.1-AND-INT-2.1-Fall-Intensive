@@ -32,7 +32,7 @@ Intensive ends Friday afternoon with each student giving a 3 minute pitch of the
 |          Date        |                 Topics                    |
 :---------------------:|:-----------------------------------------:|
 | **Monday, 10/13**    |  **HOLIDAY - NO SESSIONS**                |
-| **Tuesday, 10/15**   |  [Intensive Kickoff](https://docs.google.com/presentation/d/1xknARlZ0AC524tc7nG2uo8eWIfdiurp30TRMy9RAycA/edit#slide=id.p)                        |
+| **Tuesday, 10/15**   |  [Intensive Kickoff Slides](https://docs.google.com/presentation/d/1xknARlZ0AC524tc7nG2uo8eWIfdiurp30TRMy9RAycA/edit#slide=id.p), [Intensive Kickoff Video](https://drive.google.com/file/d/1cT9mQbqjiDNWOvB6uJdnxE6MNl29Zno4/view?usp=sharing)                        |
 |                      |  [Scoping Projects 2.0](http://make.sc/mvp-scope)         |
 |                      |  Pygame tutorial [Optional]               |
 |                      |  Brainstorm Product idea [Optional]       |
