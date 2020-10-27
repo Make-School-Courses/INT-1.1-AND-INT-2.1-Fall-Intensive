@@ -41,7 +41,7 @@ Intensive ends Friday afternoon with each student giving a 3 minute pitch of the
 | **Wednesday, 10/16** |  Checkin Standup                          |
 |                      |  Project Planning                         |
 | **Thursday, 10/17**  |  Checkin Standup                          |
-|                      |  [Product Pitch Training](https://docs.google.com/presentation/d/1AnLBMhwhJ-r77iy1mDH-se76BFDhyOukJ4_0elZUZdU/edit#slide=id.p), [Product Pitch Training Video](https://docs.google.com/spreadsheets/d/1NqT6MN3p2uuNR71RVbznR2Dk8MKkzoO5ALp98NoPK_Q/edit#gid=1251956390)                |
+|                      |  [Product Pitch Training](https://docs.google.com/presentation/d/1AnLBMhwhJ-r77iy1mDH-se76BFDhyOukJ4_0elZUZdU/edit#slide=id.p), [Product Pitch Training Video](https://drive.google.com/file/d/1l4iN7Pu8uQF8owxY4ltAitw1IUBlj7bE/view?usp=sharing)                |
 | **Monday, 10/19**    |  Checkin Standup                          |
 |                      |  Product Pitch Presentations               |
 
